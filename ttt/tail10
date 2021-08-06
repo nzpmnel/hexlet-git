@@ -1,0 +1,10 @@
+   61  git add README.md 
+   62  git status 
+   63  git diff --staged
+   64  git commit -m 'add new content'
+   65  git push
+   66  ls
+   67  mkdir ttt
+   68  cd ttt/
+   69  history | tail
+   70  history | tail >tail10
